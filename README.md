@@ -1,4 +1,4 @@
-# Areeb-FrontEnd-Task
+# Areeb-FullStack-Test-Task
 
 #  Event Booking System — Full Stack AI-Supported Project
 
