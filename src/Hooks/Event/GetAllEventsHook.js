@@ -12,7 +12,7 @@ const GetAllEventsHook = () => {
   useEffect(() => {
     dispatch(getAllEvents());
     console.log(getAll);
-  }, [dispatch, getAll]);
+  }, [dispatch]);
 
  
   return [isLoading, getAll, error];
